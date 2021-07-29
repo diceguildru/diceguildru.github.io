@@ -22,9 +22,9 @@ title: DiceGuildRu
 email: info@diceguild.ru
 description: >- # this means to ignore newlines until "baseurl:"
   Сообщество русскоязычных дайс-крафтеров
-domain: diceguildru.github.io
+domain: diceguild.ru
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://diceguildru.github.io # the base hostname & protocol for your site, e.g. http://example.com
+url: https://diceguild.ru # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: diceguild
 github_username:  diceguild
 
