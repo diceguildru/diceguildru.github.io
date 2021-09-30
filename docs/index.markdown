@@ -5,14 +5,4 @@
 layout: default
 ---
 
-## Главная
-
-- [Безопасность](/safety)
-- [Материалы](/resources)
-- Мастер-модели
-- [Молды](/molds)
-- Заливка
-- Техники
-- Ценообразование
-- [Баланс](/balance)
-- [Контакты](/contacts)
+|  Дмитрий | Dungeon Keeper's Dice  | [dkdice.com](https://www.instagram.com/dungeonkeepersdice/) |   |
