@@ -22,4 +22,12 @@ layout: default
 			<a href="https://linktr.ee/zero_efficiency" target="_blank"><img class="link-logo" src="./assets/link.png"></a>
 		</div>
 	</article>
+	<article>
+		<header><img src="./assets/inf.png" /></header>
+		<h2>Дмитрий</h2>
+		<h3>Infinum Dice</h3>
+		<div>
+			<a href="https://instagram.com/infinum_dice" target="_blank"><img class="link-logo" src="./assets/insta.png"></a>
+		</div>
+	</article>
 </section>
