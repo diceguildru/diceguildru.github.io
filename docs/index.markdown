@@ -11,7 +11,7 @@ layout: default
 		<h2>Дмитрий</h2>
 		<h3>Dungeon Keeper's Dice</h3>
 		<div>
-			<a href="https://www.instagram.com/dungeonkeepersdice/" target="_blank"><img class="link-logo" src="./assets/insta.png"></a>
+			<a href="https://www.instagram.com/dungeonkeepersdice" target="_blank"><img class="link-logo" src="./assets/insta.png"></a>
 		</div>
 	</article>
 	<article>
@@ -28,6 +28,14 @@ layout: default
 		<h3>Infinum Dice</h3>
 		<div>
 			<a href="https://instagram.com/infinum_dice" target="_blank"><img class="link-logo" src="./assets/insta.png"></a>
+		</div>
+	</article>
+	<article>
+		<header><img src="./assets/lavender.png" /></header>
+		<h2>Лена</h2>
+		<h3>Lavender dice</h3>
+		<div>
+			<a href="https://instagram.com/lavenderdice" target="_blank"><img class="link-logo" src="./assets/insta.png"></a>
 		</div>
 	</article>
 </section>
