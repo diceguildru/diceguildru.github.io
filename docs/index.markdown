@@ -11,15 +11,20 @@ layout: default
 		<h2>Дмитрий</h2>
 		<h3>Dungeon Keeper's Dice</h3>
 		<div>
-			<a href="https://www.instagram.com/dungeonkeepersdice" target="_blank"><img class="link-logo" src="./assets/insta.png"></a>
+			<a href="https://dkdice.com" target="_blank"><img class="link-logo" src="./assets/dkdice.png"></a>
 		</div>
 	</article>
 	<article>
-		<header><img src="./assets/zeroef.jpg" /></header>
+		<header><img src="./assets/zero.svg" /></header>
 		<h2>Яна</h2>
 		<h3>zero_efficiency</h3>
 		<div>
-			<a href="https://linktr.ee/zero_efficiency" target="_blank"><img class="link-logo" src="./assets/link.png"></a>
+			<a href="https://vk.com/zero_efficiency" target="_blank"><img class="link-logo" src="./assets/vk.png"></a>
+			<a href="https://t.me/zero_efficiency" target="_blank"><img class="link-logo" src="./assets/telegram.png"></a>
+			<a href="https://www.buymeacoffee.com/zeroefficieny" target="_blank"><img class="link-logo" src="./assets/buymeacoffee.png"></a>
+			<a href="https://www.etsy.com/shop/ZeroEfficiency" target="_blank"><img class="link-logo" src="./assets/etsy.png"></a>
+			<a href="https://www.instagram.com/zero_efficiency" target="_blank"><img class="link-logo" src="./assets/insta.png"></a>
+			<a href="https://twitter.com/zero_efficiency" target="_blank"><img class="link-logo" src="./assets/twitter.png"></a>
 		</div>
 	</article>
 	<article>
@@ -35,7 +40,8 @@ layout: default
 		<h2>Лена</h2>
 		<h3>Lavender dice</h3>
 		<div>
-			<a href="https://instagram.com/lavenderdice" target="_blank"><img class="link-logo" src="./assets/insta.png"></a>
+			<a href="https://instagram.com/lavenderdice?utm_medium=copy_link" target="_blank"><img class="link-logo" src="./assets/insta.png"></a>
+			<a href="https://t.me/lavenderdice" target="_blank"><img class="link-logo" src="./assets/telegram.png"></a>
 		</div>
 	</article>
 </section>

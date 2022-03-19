@@ -35,10 +35,48 @@
         justify-content: center;
       }
 
+      header > img {
+        filter: grayscale(1);
+      }
+
       .link-logo {
         opacity: .4;
         width: 30px;
+        filter: grayscale(1);
+        transition: all 200ms ease-out 20ms;
       }
+
+      .link-logo:hover {
+        opacity: .8;
+        filter: grayscale(0);
+      }
+
+      @media (orientation: portrait) {
+          body, html, body > div {
+            padding: 0;
+            margin: 0;
+            overflow: auto;
+          }
+          .slider {
+            width: auto;
+          }
+          .slider img {
+            /*flex: auto;*/
+            /*max-width: 33.3%;
+            min-width: 33.3%;*/
+
+          }
+          article {
+            /*width: auto;
+            height: auto;*/
+            font-size: 1em;
+                        margin:  20px 0;
+          }
+          section {
+            flex-direction: column;
+            height: auto;
+          }
+        }
     </style>
     <meta name="yandex-verification" content="508e67d232ef1693" />
     <!-- Yandex.Metrika counter -->
