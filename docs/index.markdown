@@ -23,7 +23,6 @@ layout: default
 			<a href="https://t.me/zero_efficiency" target="_blank"><img class="link-logo" src="./assets/telegram.png"></a>
 			<a href="https://www.buymeacoffee.com/zeroefficieny" target="_blank"><img class="link-logo" src="./assets/buymeacoffee.png"></a>
 			<a href="https://www.etsy.com/shop/ZeroEfficiency" target="_blank"><img class="link-logo" src="./assets/etsy.png"></a>
-			<a href="https://www.instagram.com/zero_efficiency" target="_blank"><img class="link-logo" src="./assets/insta.png"></a>
 			<a href="https://twitter.com/zero_efficiency" target="_blank"><img class="link-logo" src="./assets/twitter.png"></a>
 		</div>
 	</article>
@@ -32,7 +31,7 @@ layout: default
 		<h2>Дмитрий</h2>
 		<h3>Infinum Dice</h3>
 		<div>
-			<a href="https://instagram.com/infinum_dice" target="_blank"><img class="link-logo" src="./assets/insta.png"></a>
+			<a href="https://instagram.com/infinum_dice" target="_blank"><img class="link-logo" src="./assets/link-site.png"></a>
 		</div>
 	</article>
 	<article>
@@ -40,7 +39,7 @@ layout: default
 		<h2>Лена</h2>
 		<h3>Lavender dice</h3>
 		<div>
-			<a href="https://instagram.com/lavenderdice?utm_medium=copy_link" target="_blank"><img class="link-logo" src="./assets/insta.png"></a>
+			<a href="https://instagram.com/lavenderdice?utm_medium=copy_link" target="_blank"><img class="link-logo" src="./assets/link-site.png"></a>
 			<a href="https://t.me/lavenderdice" target="_blank"><img class="link-logo" src="./assets/telegram.png"></a>
 		</div>
 	</article>
